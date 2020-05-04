@@ -1,10 +1,5 @@
-/* The isBadVersion API is defined in the parent class VersionControl.
+package LeetCode;/* The isBadVersion API is defined in the parent class LeetCode.VersionControl.
       boolean isBadVersion(int version); */
-
-import java.lang.reflect.Array;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
 
 public class FirstBadVersion{
     public static void main(String[] args) {
